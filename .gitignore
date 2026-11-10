@@ -104,7 +104,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -134,3 +133,5 @@ installed_models/
 # Misc
 api_keys.db
 suggestions.db
+config.bat
+node_modules
